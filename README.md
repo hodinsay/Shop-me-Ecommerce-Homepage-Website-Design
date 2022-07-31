@@ -8,7 +8,7 @@ A homepage website design for Ecommerce site. This design could be utilize as th
 
 **Tech Used**: HTML 5, CSS 3, and JavaScript
 
-# Tutorial Video from Easy Tutorial: https://www.youtube.com/watch?v=CgxEA9iMMWI&t=5s
+** Tutorial Video from Easy Tutorial**: https://www.youtube.com/watch?v=CgxEA9iMMWI&t=5s
 
 # Lessons Learned:
 
