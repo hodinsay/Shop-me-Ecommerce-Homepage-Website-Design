@@ -19,7 +19,7 @@ A homepage website design for Ecommerce site. This design could be utilize as th
 - Added @media for viewport responsiveness
 - Added a menu bars icon (font awesome v5) for mobile viewport
 - Added < addEventListener( "click", () => {} > function to make menu bars icon responsive when the icon is clicked via JavaScript
-- Added addtional CSS styling to nav-menu display responsiveness
+- Added addtional CSS styling to nav-menu display for mobile viewport
 
 # Other Examples: 
 
