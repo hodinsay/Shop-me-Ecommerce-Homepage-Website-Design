@@ -24,3 +24,5 @@ A homepage website design for Ecommerce site. This design could be utilize as th
 # Other Examples: 
 
 Take a look at these couple examples that I have in my own portfolio:
+
+- **Fusion Kitchen Restaurant Homepage Website Design**: https://github.com/hodinsay/Fusion-Kitchen-Restaurant-Homepage-Website-Design-
